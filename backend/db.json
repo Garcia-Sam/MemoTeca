@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Sam",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo": "Eu sou um pensamento teste!",
+      "autoria": "Sam",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "Outro pensamento teste!",
+      "autoria": "Sam",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 1,
+      "conteudo": "Mais um pensamento teste?",
+      "autoria": "Sam",
+      "modelo": "modelo3"
+    }
+  ]
+}
