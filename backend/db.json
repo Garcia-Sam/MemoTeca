@@ -7,19 +7,19 @@
       "modelo": "modelo1"
     },
     {
-      "id": 1,
+      "id": 2,
       "conteudo": "Eu sou um pensamento teste!",
       "autoria": "Sam",
       "modelo": "modelo2"
     },
     {
-      "id": 1,
+      "id": 3,
       "conteudo": "Outro pensamento teste!",
       "autoria": "Sam",
       "modelo": "modelo3"
     },
     {
-      "id": 1,
+      "id": 4,
       "conteudo": "Mais um pensamento teste?",
       "autoria": "Sam",
       "modelo": "modelo3"
